@@ -118,7 +118,7 @@ a:active {
     color: var(--nav-item-link-hover);
 }
 
-.ul .row {
+ul .row {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -137,12 +137,12 @@ a:active {
 }
 
 .footer-copyright {
-    margin: 0 0 0 0;
+    margin: 0;
     font-size: var(--font-size-small);
     color: var(--text-color);
 }
 
-.ul .footer {
+ul .footer {
     text-align: right;
 }
 
