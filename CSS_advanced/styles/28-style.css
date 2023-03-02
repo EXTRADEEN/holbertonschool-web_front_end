@@ -232,7 +232,7 @@ ul.row {
 }
 
 .header {
-    padding: var(--header-paddind);
+    padding: var(--header-padding);
 }
 
 .header-logo {
@@ -243,7 +243,7 @@ ul.row {
     display: var(--header-logo-link-display);
     position: var(--header-logo-link-position);
     top: var(--header-logo-link-top);
-    left: var(--header-logo-linl-left);
+    left: var(--header-logo-link-left);
 }
 
 :root {
